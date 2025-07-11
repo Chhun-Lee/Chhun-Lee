@@ -15,6 +15,11 @@
   <br/>
   <br/>
 
+  ## 🧱 Tech Stack
+  ### Language
+  <!--Java-->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
    ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhun-Lee)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
