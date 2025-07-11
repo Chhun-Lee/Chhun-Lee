@@ -23,7 +23,7 @@
 
   ### Framework
   <!--Spring Boot-->
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
    ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhun-Lee)](https://github.com/anuraghazra/github-readme-stats)
