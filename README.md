@@ -1,7 +1,8 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=300&section=header&text=welcome%20to%20my%20github%20%F0%9F%A4%97)
+  ## 안녕하세요 개발자를 꿈꾸고 있는 대학교 3학년 이창훈 입니다.
+  <br/>
   
 </div>
 
