@@ -4,10 +4,10 @@
 </div>
 
 <div>
-  < <!--Body-->
+  <!--Body-->
   
   ## 👀 About Me
-  #### :university: catholic university from South Korea.<br/>
+  #### University: catholic university from South Korea.<br/>
   <br/>
   <br/>
 
