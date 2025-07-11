@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Hi%20welcom%20my%20git%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=purple&height=300&section=header&text=Hi%20welcom%20my%20git%20%F0%9F%A4%97)
 
 <!--
 **Chhun-Lee/Chhun-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
