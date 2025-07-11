@@ -24,6 +24,12 @@
   ### Framework
   <!--Spring Boot-->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <br/>
+
+  ### Algorithm
+  <!--C++-->
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <br/>
 
    ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhun-Lee)](https://github.com/anuraghazra/github-readme-stats)
