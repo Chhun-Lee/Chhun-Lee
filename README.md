@@ -11,7 +11,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### University: catholic university from South Korea.<br/>
+  #### 대학교 : 가톨릭대학교 3학년 재학<br/>
   <br/>
   <br/>
 
