@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ## Thanks for visiting my github!
+  ## Thanks for visiting my Github!
   <br/>
   <br/>
   
