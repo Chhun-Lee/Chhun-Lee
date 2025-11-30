@@ -32,7 +32,7 @@
   <br/>
 
    ## Github state
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhun-Lee)](https://github.com/Chhun-Lee/github-readme-stats)
+  [![Anurag's GitHub stats](github-readme-stats-coral-three-23.vercel.app)](https://github.com/Chhun-Lee/github-readme-stats)
    ## Baekjoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eoqkr0206)](https://solved.ac/eoqkr0206/)
   <br/>
