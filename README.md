@@ -1,4 +1,4 @@
-### Thanks for visiting my Github!
+### 최대한 노력중입니다..
 ---
 <br>
 
