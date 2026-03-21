@@ -33,7 +33,7 @@
 ---
 
 <br>
-### Open Source Contributions
+<h3>Open Source Contributions</h3>
 <table>
 <tr>
 <td align="center" width="100%" valign="top">
