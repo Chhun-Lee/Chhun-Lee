@@ -33,6 +33,28 @@
 ---
 
 <br>
+### Open Source Contributions
+<table>
+<tr>
+<td align="center" width="100%" valign="top">
+<a href="https://github.com/openrewrite/rewrite-spring">
+<img src="https://img.shields.io/badge/⭐_378-rewrite--spring-black?style=for-the-badge&labelColor=black" alt="rewrite-spring"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenRewrite-Spring_Boot_Migration-4caf50?style=flat-square&logo=spring&logoColor=white" height="28"/>
+<br/><br/>
+<b>Automated migration recipes for Spring Boot</b>
+<br/><br/>
+<a href="https://github.com/openrewrite/rewrite-spring/pull/969"><img src="https://img.shields.io/badge/PR_%23969-Merged-8957e5?style=flat-square&logo=github"/></a>
+<br/>Spring Security 7 AuthorizationManager migration
+</td>
+</tr>
+</table>
+<br>
+
+---
+
+<br>
 
 ### Github State
 ![Anurag's GitHub stats](https://github-readme-stats-coral-three-23.vercel.app/api?username=Chhun-Lee&show_icons=true)
@@ -66,21 +88,4 @@ SNS 애플리케이션 백엔드. OAuth2 소셜 로그인, FCM 푸시 알림 구
 
 </tr>
 </table>
----
-### Open Source Contributions
-<table>
-<tr>
-<td align="center" width="100%" valign="top">
-<a href="https://github.com/openrewrite/rewrite-spring">
-<img src="https://img.shields.io/badge/⭐_378-rewrite--spring-black?style=for-the-badge&labelColor=black" alt="rewrite-spring"/>
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/OpenRewrite-Spring_Boot_Migration-4caf50?style=flat-square&logo=spring&logoColor=white" height="28"/>
-<br/><br/>
-<b>Automated migration recipes for Spring Boot</b>
-<br/><br/>
-<a href="https://github.com/openrewrite/rewrite-spring/pull/969"><img src="https://img.shields.io/badge/PR_%23969-Merged-8957e5?style=flat-square&logo=github"/></a>
-<br/>Spring Security 7 AuthorizationManager migration
-</td>
-</tr>
-</table>
+
